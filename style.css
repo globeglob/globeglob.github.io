@@ -1,8 +1,8 @@
 body {
 	background-color: #fff5d9;
-	background-image: linear-gradient(#fff5d9, #f7d9ff, #ffffff);
+	background-image: linear-gradient(to right, #fff5d9, #f7d9ff, #ffffff);
 	color: #007fcb;
-	font-family: "Courier New", monospace;
+	font-family: "Trebuchet MS", monospace;
 }
 
 h1 {
