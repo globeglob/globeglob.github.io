@@ -1,6 +1,7 @@
 body {
-	background-color: #fff5eb;
-	color: #ff80d9;
+	background-color: #fff5d9;
+	background-image: linear-gradient(#fff5d9, #f7d9ff, #ffffff);
+	color: #007fcb;
 	font-family: "Courier New", monospace;
 }
 
@@ -9,5 +10,9 @@ h1 {
 }
 
 header {
+	text-align: center;
+}
+
+p {
 	text-align: center;
 }
